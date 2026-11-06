@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hedpress.com">
-    <img src="./public/logo.png" alt="Hed Press" width="96" />
+    <img src="https://hedpress.com/logo.png" alt="Hed Press" width="96" />
   </a>
 </p>
 
@@ -113,11 +113,11 @@ The [blog](https://hedpress.com/blog) and [tools](https://hedpress.com/tools) li
 ## The sister presses
 
 <p align="center">
-  <a href="https://ledepress.com"><img src="./readme/lede.png" alt="Lede Press" width="64" /></a>
+  <a href="https://ledepress.com"><img src="https://ledepress.com/logo.png" alt="Lede Press" width="64" /></a>
   &nbsp;&nbsp;
-  <a href="https://listedpress.com"><img src="./readme/listed.png" alt="Listed Press" width="64" /></a>
+  <a href="https://listedpress.com"><img src="https://listedpress.com/logo.png" alt="Listed Press" width="64" /></a>
   &nbsp;&nbsp;
-  <a href="https://piecepress.com"><img src="./readme/piece.png" alt="Piece Press" width="64" /></a>
+  <a href="https://piecepress.com"><img src="https://piecepress.com/logo.png" alt="Piece Press" width="64" /></a>
 </p>
 
 - [Lede Press](https://ledepress.com) — a daily index of product stories.
@@ -143,13 +143,3 @@ Only if the next line answers it with a product and a person. “Tired of messy 
 ### Who handles a correction?
 
 [hi@hedpress.com](mailto:hi@hedpress.com), with the page URL.
-
-## Run the app
-
-```bash
-npm install
-cp .env.example .env.local
-npm run dev
-```
-
-Set `AUTH_SECRET` and `DATABASE_URL`. The public site is [hedpress.com](https://hedpress.com). Identity and copy defaults live in `lib/site.ts`.
