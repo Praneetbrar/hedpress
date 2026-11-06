@@ -4,113 +4,154 @@
   </a>
 </p>
 
-<h1 align="center">Hed Press</h1>
+<h1 align="center">Hed Press — product headlines that name the reader</h1>
 
 <p align="center">
-  <strong>Product stories that open hard.</strong><br />
-  Who, what, and for whom — in the first lines, before the scroll.
+  Who it is, what it is, and who it is for, before the scroll.<br />
+  <a href="https://hedpress.com"><strong>hedpress.com</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://hedpress.com"><strong>Read the stories</strong></a>
+  <a href="https://hedpress.com">Read a story</a>
   &nbsp;·&nbsp;
-  <a href="https://hedpress.com/submit">Submit a story</a>
+  <a href="https://hedpress.com/blog/how-to-write-a-headline-that-names-the-reader">How to write the line</a>
   &nbsp;·&nbsp;
-  <a href="https://hedpress.com/pricing">Pricing</a>
+  <a href="https://hedpress.com/tools/headline-bench">Check a headline</a>
   &nbsp;·&nbsp;
-  <a href="https://hedpress.com/blog">Blog</a>
-  &nbsp;·&nbsp;
-  <a href="https://hedpress.com/tools">Free tools</a>
+  <a href="https://hedpress.com/submit">Submit</a>
 </p>
 
-Hed Press publishes opener-first product stories at [hedpress.com](https://hedpress.com). The headline says who it is, what it is, and who it is for before a reader has to scroll. The paragraph under it keeps that promise. The page stays up at its own URL.
+**A Hed Press headline names the reader, the product, and the job in one line.** If a stranger sees only that line, they know whether the page is for them. [Hed Press](https://hedpress.com) publishes product stories that open on that line and then keep the promise.
 
-Readers use a Hed Press story to decide in the first lines whether to keep going. Makers use it when the product can be explained in a sharp opening — a tool, a service, or a launch with a clear audience — and the rest of the page should earn that opening instead of burying it.
+“Introducing Fieldnote” is about the company. “A morning brief for support leads” is about a person. The second line can sit in a list, a pin, or a search snippet and still mean something. The first line cannot.
 
-## What is a Hed Press story?
+## A line that fails, and the line that replaces it
 
-A product story built around the hed. The first line names the reader and the job, not the company’s excitement. The opening adds one fact the headline did not fit. Later sections can go deeper. They are not allowed to correct a vague headline.
+This does not survive a narrow column:
 
-If the first lines do not say who it is for, the story is not ready. “Introducing our platform” is a launch note. “A morning brief for support leads” is a hed.
+> Introducing a next-generation platform that helps modern support organizations finally get clarity.
 
-## Who it is for
+The visible cut becomes “Introducing a next-generation…”. Nobody learned the job.
 
-**Readers** scanning a list of products who will not give you a paragraph of warmup. They need the person, the product, and the job in the visible line.
+This still works when the ending is cut:
 
-**Makers** whose product has one job that can be said in a sentence. If the piece needs a criteria table, it belongs on [Listed Press](https://listedpress.com). If it needs a full buyer walkthrough, it belongs on [Piece Press](https://piecepress.com).
+> Fieldnote — a morning brief for support leads
 
-**Editors** who want a page that still works when a column, a pin, or a search snippet cuts the ending. The meaning has to sit in the first 50 to 70 characters, not after them.
+The product, the object, and the person are already in the first words. A second beat — “before standup, from the help desk” — belongs in the deck under the line, not in a longer headline.
 
-## What a reader gets
+## What the line has to hold
 
-- A headline that can be repeated without the logo.
-- An opening that confirms the headline and adds one concrete fact, instead of restating it with “designed for.”
-- A permanent page on hedpress.com, not a caption that disappears when the feed moves.
-- A skip path: if the reader is not the person in the hed, they can leave without being tricked by a curiosity gap.
+Three parts, in any order that still sounds like speech:
 
-## What a maker gets
+1. The product name, so people who already know it can find the page again.
+2. A role, not “everyone.” Support leads, billing managers, solo editors.
+3. A job with a verb. “See which tickets slipped overnight,” not “platform” or “solution.”
 
-A public story that opens on the point and stays at a stable URL. The hed is the promise. The page has to keep it. Plans and what the full editorial package adds are on the [pricing page](https://hedpress.com/pricing). A product is submitted from [hedpress.com/submit](https://hedpress.com/submit).
+One job. A headline that promises a brief, a CRM, and a status page is three products. The other jobs can wait in the story, after the reader has agreed the first one is theirs.
 
-Hed Press does not promise a ranking or a citation. It publishes a page whose first lines a stranger can understand.
+Cut words any competitor can paste on: ultimate, seamless, next-gen, game-changer, all-in-one. Cut “you won’t believe.” Those phrases spend the visible characters hiding the point. The [headline bench](https://hedpress.com/tools/headline-bench) counts the characters and flags those claims.
 
-## How a headline earns its place
+About 50 to 70 characters is the band that usually keeps the reader and the job visible. Under that, a line can still be too vague. Over that, a clear ending often falls off the preview. There is no perfect count. There is a first line that still decides something after the cut. More on length: [how long a product headline should be](https://hedpress.com/blog/how-long-a-product-headline-should-be).
 
-A working hed has three parts in one line:
+## Where the opening is allowed to start
 
-1. The product name, so people who already know it can find the page.
-2. The reader, as a role — support leads, billing managers — not “everyone.”
-3. The job, as a verb a person does on a Tuesday.
+The story starts at the sentence you would text a colleague. Everything before that — the market, the year, “we’re excited” — is a warmup. Delete it, or move the real sentence up.
 
-Cut words any competitor could paste on: ultimate, seamless, next-gen, game-changer. Cut “you won’t believe.” Those phrases hide the point. On a product story the point is the product.
+If the headline already said “a morning brief for support leads,” the first sentence must not say it again with “designed for” inserted. Start at the next fact: what is in the brief, or when they read it.
 
-If a second beat matters — a time of day, a limit, the tool it replaces — put it in the deck under the line. The headline stays the part that survives a narrow column.
+Twenty-five to forty-five words is the first breath. The [opener cut](https://hedpress.com/tools/opener-cut) splits the paragraph and marks the sentence that crosses that budget. [How to cut a product story opening](https://hedpress.com/blog/how-to-cut-a-product-story-opening) is the longer note.
 
-## How an opening gets cut
+Keep one concrete object when you cut. Incidents, a queue, a standup, a six-line brief. “Clarity” and “alignment” are what remain when every object was treated as optional.
 
-Most drafts start one sentence too late. The market, the year, and “we’re excited” are warmups. Move the first sentence that names the product and the job to the top. Delete echoes of the headline. Keep one concrete object: the queue, the standup, the six-line brief.
+## When this is the wrong desk
 
-Twenty-five to forty-five words is enough for that point. Past that, you are in the next beat of the story. Company voice (“we built,” “our mission”) comes out unless the sentence also contains the reader’s job.
+Hed Press is for a product that can be true in the first lines. One audience. One job. A page that confirms the headline instead of correcting it.
 
-## How this is different from a slogan
+If you are choosing among several named tools, you need criteria, not a sharper pun. That page is a [Listed Press](https://listedpress.com) shortlist. If a teammate needs the tradeoff and a real no, that page is a [Piece Press](https://piecepress.com) explainer. If you want the story filed in a daily public index, that is [Lede Press](https://ledepress.com).
 
-| A slogan | A Hed Press story |
-| --- | --- |
-| Sounds good on any product | Names this product and this reader |
-| Needs the landing page to mean something | The first line already means something |
-| Hides the job behind a pun | Puts the job in ordinary words |
-| Dies when the campaign ends | Stays on a URL you can send later |
+Need eight plain shapes before you edit tone? The [hed formulas](https://hedpress.com/tools/hed-formulas) fill a product, a reader, and a job into fixed sentences. They are drafts. Vague facts make eight vague lines.
 
-Answer engines quote sentences that already state the product. A hed that says who, what, and for whom is that sentence. A hed that only teases is not.
+## What we refuse
 
-## What we will not publish
+An opening that withholds the product’s name. A headline the first paragraph has to apologize for. A page that misstates the product. A question headline — “Tired of messy handoffs?” — with no answer in the next line.
 
-- An opening that makes the reader wait for the product’s name.
-- A headline the first paragraph has to correct.
-- A page that misstates the product, or sends the reader somewhere else.
-- Stock intensifiers standing in for a job.
+The rules are on the [editorial page](https://hedpress.com/editorial). Corrections go to [hi@hedpress.com](mailto:hi@hedpress.com) with the URL. The page stays at that address. Hed Press does not promise a ranking. It publishes a line a stranger can judge, and a story that keeps it.
 
-Rules for what gets edited and what gets refused are on the [editorial page](https://hedpress.com/editorial). Corrections go to [hi@hedpress.com](mailto:hi@hedpress.com) with the URL.
+Plans are on [pricing](https://hedpress.com/pricing). Submit from [hedpress.com/submit](https://hedpress.com/submit).
 
-## How to check a story before you trust it
+## Questions about product headlines
 
-Read only the headline. If you cannot tell who it is for, it is not finished. Then read the first two sentences. They should add a fact, not repeat the line with an extra adjective. Open the URL directly a week later. The same promise should still be there.
+### Should a product headline ask a question?
 
-## Guides and tools
+Only when the next line answers it with a product and a person. A question that uses the whole visible line never shows the product. Prefer a statement.
 
-- [How to write a product headline that names the reader](https://hedpress.com/blog/how-to-write-a-headline-that-names-the-reader)
-- [How long a product headline should be](https://hedpress.com/blog/how-long-a-product-headline-should-be)
-- [How to cut a product story opening](https://hedpress.com/blog/how-to-cut-a-product-story-opening)
+### Where does the name go?
 
-Free tools, in the browser:
+First, or right after a short label, with the job in the same line. A name alone is an identifier. A job alone is a category. You want both.
 
-- [Headline bench](https://hedpress.com/tools/headline-bench) — length, a named reader, and inflated claims.
-- [Opener cut](https://hedpress.com/tools/opener-cut) — which sentence crosses a 45-word budget.
-- [Hed formulas](https://hedpress.com/tools/hed-formulas) — eight plain shapes from a product, a reader, and a job.
+### Can the same line be the page title?
 
-The [blog](https://hedpress.com/blog) and [tools](https://hedpress.com/tools) list everything live.
+Yes. A headline that only works inside a designed card fails in a search result, a pin, and a category list. Write the line that survives those cuts.
 
-## The sister presses
+### How do I know the opening is finished?
+
+Hand the first two sentences to someone who has not seen the product. If they can say who it is for and what it does, stop. If they ask “what is it?”, the answer is not in the first line yet.
+
+## Three headlines, rewritten
+
+**Launch note.** “We are excited to announce the next generation of team alignment.” There is no product, no person, and no Tuesday in that sentence. A rewrite that can live in a list: “Standup — a six-line brief for support leads before the Monday meeting.” The excitement was never information. The brief, the person, and the meeting are.
+
+**Feature stack.** “Acme: AI summaries, Slack, roles, and analytics in one seamless suite.” Four products and a compliment. Pick the job that makes someone stop: “Acme — overnight ticket summaries for the support lead who runs standup.” Slack and roles can appear once the reader has agreed that job is theirs. They do not belong in the only line many people will see.
+
+**Curiosity gap.** “You won’t believe what this support tool replaces.” The line spends its characters promising a secret. The replacement is the point. Say it: “Queuebird replaces the shared inbox for a support team of ten.” Readers who do not have a shared inbox can leave. That is a successful headline. A headline that forces everyone to click, then disappoints them, trains people to skip the next one.
+
+## How the deck earns the second glance
+
+The headline decides whether someone stops. The deck decides whether they open. Those are different sentences. If they say the same thing, one of them is wasted.
+
+Use the deck for a fact that would have made the headline too long: a time of day, a tool it sits on top of, a team size, a thing it will not do. “Before standup, from the help desk you already run — not a second queue.” That deck makes the headline “Fieldnote — a morning brief for support leads” more true without making the headline a paragraph.
+
+Do not open the deck with “Fieldnote is.” The name was just in the headline. Start at the new fact. Read the two lines together out loud. If you would not say them in that order to a colleague, the deck is advertising and the headline is a label, or the other way around. They should sound like one thought split at a natural breath.
+
+## What a feed of five lines reveals
+
+Put your headline in a list with four others and hide the logos. This is the test Hed Press cares about, because that is how the line is actually met: in an index, a pin, a chat preview, a search result. The designed hero on your own site is a kinder room than the line will get.
+
+In that list, the lines that start with “Introducing” and “The new way” blur into one company. The line that names a role jumps out to the person with that role and correctly bores everyone else. Boredom is not a failure. Universal interest is usually a sign the line said nothing specific.
+
+If your line only works when the logo is sitting beside it, the words are not carrying the product. Move the name into the words. A mark can confirm. It should not translate.
+
+## Company voice, and where it belongs
+
+“We built,” “our mission,” “we’re thrilled.” Those sentences feel like the author’s place in the story. They are not the reader’s place. A single “we” can stay when it is tied to a fact: “We pull the last 24 hours from the help desk.” A paragraph of “we” is a launch note. The story is about the person who will use the thing on a Tuesday.
+
+Count the we/our in the first forty words. More than one usually means the opening tilted back toward the company. Cut until the reader is the subject again. The concrete noun you would be willing to be wrong about — the queue, the hour, the six lines — should survive every cut. Abstract leftovers are what you get when every object was treated as optional.
+
+## A page that keeps the headline’s promise
+
+The headline is a promise. The first paragraph keeps it and adds one fact. Later sections may go into how it works, what it will not do, and where to try it. They are not allowed to reveal that the headline was a metaphor and the product is something else.
+
+If you discover, while drafting, that the true job is different from the headline, change the headline. Do not bury a correction under three paragraphs. Readers who stopped for the line will feel tricked, and readers who needed the real job will have bounced already.
+
+One link, after the reader knows what the page is. The link text should be a phrase that already makes sense. “Click here” is not a hed and it is not a sentence. Other destinations — docs, pricing, a social profile — can wait or stay off the page. The first screen has one job: make the fit obvious.
+
+## More questions
+
+### What if the product name is a pun?
+
+Keep the pun if you like it, and still put the job in ordinary words in the same line. A pun plus “reimagined” is two ways of not saying what the product does. People who do not know the joke still need the job.
+
+### How many adjectives are too many?
+
+One, if it is specific. Zero is often better. “Fast” needs a comparison. “Before standup” is more useful than “fast,” because a reader can picture the hour.
+
+### Should I write a short version and a long version?
+
+Write one line that survives a cut, and a deck that holds the extra fact. Two headlines drift apart, and one of them will be the wrong promise in a preview you forgot to update.
+
+### Is a one-sentence opening too short?
+
+Not if it has the product, the person, and the job. A second sentence should add a fact — what is inside, when it is used, who should skip it — not restate the first sentence with “designed” added.
 
 <p align="center">
   <a href="https://ledepress.com"><img src="https://ledepress.com/logo.png" alt="Lede Press" width="64" /></a>
@@ -119,27 +160,3 @@ The [blog](https://hedpress.com/blog) and [tools](https://hedpress.com/tools) li
   &nbsp;&nbsp;
   <a href="https://piecepress.com"><img src="https://piecepress.com/logo.png" alt="Piece Press" width="64" /></a>
 </p>
-
-- [Lede Press](https://ledepress.com) — a daily index of product stories.
-- [Listed Press](https://listedpress.com) — shortlists with criteria, for people comparing.
-- [Piece Press](https://piecepress.com) — one buyer question, answered with room for a no.
-
-Hed is the opener. The other desks are for pieces that cannot be true in the first lines alone.
-
-## Questions
-
-### Why does the opening matter more here than the feature list?
-
-Readers and answer systems decide in the first lines whether the page is worth continuing. Features that are not the job can wait until someone has agreed the job is theirs.
-
-### Can the headline be a question?
-
-Only if the next line answers it with a product and a person. “Tired of messy handoffs?” is a pause, not a hed.
-
-### Where are the plans?
-
-[hedpress.com/pricing](https://hedpress.com/pricing). Submit at [hedpress.com/submit](https://hedpress.com/submit).
-
-### Who handles a correction?
-
-[hi@hedpress.com](mailto:hi@hedpress.com), with the page URL.
